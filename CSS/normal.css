@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(221, 78, 168);
+    color:rgb(180, 196, 238);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:'Times New Roman', Times, serif;
+}
+h1 { 
+     color:rgb(220, 239, 245);
+    }
+
+.grün {
+    color:rgb(181, 63, 124) 
+
+}
+.orange {
+    font-style: italic;
+}
+
+#pink {
+    font-weight: 200;
+}
+#gelb {
+    font-size: medium;
+}
+table, th, td {
+    border:1px solid black;
+}
+    

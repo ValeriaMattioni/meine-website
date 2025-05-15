@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(93, 166, 166);
+    color:rgb(220, 227, 245);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:'Times New Roman', Times, serif;
+}
+h1 { 
+     color:beige;
+    }
+
+.hallo {
+    color:rgb(181, 63, 124) 
+
+}
+.tschüss {
+    font-style: italic;
+}
+
+#blau {
+    font-weight: 200;
+}
+#rosa {
+    font-size: medium;
+}
